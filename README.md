@@ -1,5 +1,3 @@
 # Task Tracker - A React TS Tutorial Project 
 
-A simple task tracker app that uses components, props, state, hooks, working with APIs.
-
-Thanks to [Traversy Media](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+A simple task tracker app in TypeScript using `React`, `[json-server](https://github.com/typicode/json-server)`, and `react-router-dom`.
